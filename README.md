@@ -1,2 +1,3 @@
-# hello-world
-it is a test project
+# helllo world
+I am subrata  and I am learning about github.
+
